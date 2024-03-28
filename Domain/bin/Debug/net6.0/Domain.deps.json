@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Domain/1.0.0": {
+        "dependencies": {
+          "Shared.Kernal": "1.0.0"
+        },
+        "runtime": {
+          "Domain.dll": {}
+        }
+      },
+      "Shared.Kernal/1.0.0": {
+        "runtime": {
+          "Shared.Kernal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shared.Kernal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

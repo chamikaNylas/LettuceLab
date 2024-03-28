@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Shared.Kernal/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Shared.Kernal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shared.Kernal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shared.Kernal/1.0.0": {
+      "type": "project",
+      "path": "../Shared.Kernal/Shared.Kernal.csproj",
+      "msbuildProject": "../Shared.Kernal/Shared.Kernal.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Shared.Kernal >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Chamika Hasantha\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\Domain.csproj",
+      "projectName": "Domain",
+      "projectPath": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\Chamika Hasantha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Chamika Hasantha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Shared.Kernal.csproj": {
+              "projectPath": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Shared.Kernal.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.28, 6.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.28, 6.0.28]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.28, 6.0.28]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,831 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\persistence\\repositories\\queryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\queryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\persistence\\repositories\\commandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\commandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\persistence\\repositories\\interfaces\\icommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\interfaces\\icommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\persistence\\repositories\\interfaces\\iqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\interfaces\\iqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A4E03-1706-45C9-A7D8-C94EDB21FF38}|Api\\Api.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792A4E03-1706-45C9-A7D8-C94EDB21FF38}|Api\\Api.csproj|solutionrelative:api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304869B3-3A69-4139-A6CB-329EEF35B793}|Application\\Application.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\application\\queries\\greenhousequery\\getgreenhousesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304869B3-3A69-4139-A6CB-329EEF35B793}|Application\\Application.csproj|solutionrelative:application\\queries\\greenhousequery\\getgreenhousesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304869B3-3A69-4139-A6CB-329EEF35B793}|Application\\Application.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\application\\queries\\greenhousequery\\getgreenhousesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304869B3-3A69-4139-A6CB-329EEF35B793}|Application\\Application.csproj|solutionrelative:application\\queries\\greenhousequery\\getgreenhousesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A4E03-1706-45C9-A7D8-C94EDB21FF38}|Api\\Api.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792A4E03-1706-45C9-A7D8-C94EDB21FF38}|Api\\Api.csproj|solutionrelative:api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\persistence\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|solutionrelative:persistence\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\shared.kernal\\spesifications\\andspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|solutionrelative:shared.kernal\\spesifications\\andspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\shared.kernal\\spesifications\\orspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|solutionrelative:shared.kernal\\spesifications\\orspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\shared.kernal\\spesifications\\notspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|solutionrelative:shared.kernal\\spesifications\\notspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\shared.kernal\\spesifications\\specification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|solutionrelative:shared.kernal\\spesifications\\specification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\shared.kernal\\domain\\checke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|solutionrelative:shared.kernal\\domain\\checke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\shared.kernal\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|solutionrelative:shared.kernal\\domain\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\shared.kernal\\domain\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|solutionrelative:shared.kernal\\domain\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\shared.kernal\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|solutionrelative:shared.kernal\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\shared.kernal\\shared.kernal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|solutionrelative:shared.kernal\\shared.kernal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\shared.kernal\\exceptions\\latticelabexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|solutionrelative:shared.kernal\\exceptions\\latticelabexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\shared.kernal\\shared.kernal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{42D376A7-D155-4F1D-AFE3-94F28D82CA96}|Shared.Kernal\\Shared.Kernal.csproj|solutionrelative:shared.kernal\\shared.kernal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304869B3-3A69-4139-A6CB-329EEF35B793}|Application\\Application.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{304869B3-3A69-4139-A6CB-329EEF35B793}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A4E03-1706-45C9-A7D8-C94EDB21FF38}|Api\\Api.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792A4E03-1706-45C9-A7D8-C94EDB21FF38}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\persistence\\configaration\\greenhouseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|solutionrelative:persistence\\configaration\\greenhouseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\domain\\entities\\greenhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\greenhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A4E03-1706-45C9-A7D8-C94EDB21FF38}|Api\\Api.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{792A4E03-1706-45C9-A7D8-C94EDB21FF38}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\persistence\\repositories\\greenhouserepos\\greenhousecommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\greenhouserepos\\greenhousecommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304869B3-3A69-4139-A6CB-329EEF35B793}|Application\\Application.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304869B3-3A69-4139-A6CB-329EEF35B793}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304869B3-3A69-4139-A6CB-329EEF35B793}|Application\\Application.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\application\\queries\\greenhousequery\\greenhousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304869B3-3A69-4139-A6CB-329EEF35B793}|Application\\Application.csproj|solutionrelative:application\\queries\\greenhousequery\\greenhousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\persistence\\unitofworkcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|solutionrelative:persistence\\unitofworkcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\persistence\\entities\\outbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entities\\outbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\persistence\\entities\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entities\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304869B3-3A69-4139-A6CB-329EEF35B793}|Application\\Application.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\application\\getrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304869B3-3A69-4139-A6CB-329EEF35B793}|Application\\Application.csproj|solutionrelative:application\\getrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\domain\\valueobjects\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|solutionrelative:domain\\valueobjects\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\domain\\valueobjects\\growbed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|solutionrelative:domain\\valueobjects\\growbed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\domain\\valueobjects\\lettuce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|solutionrelative:domain\\valueobjects\\lettuce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\domain\\entities\\greenhousemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\greenhousemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\persistence\\migrations\\20230131134009_iniu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|solutionrelative:persistence\\migrations\\20230131134009_iniu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\persistence\\migrations\\20230131105736_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2486A4E8-0BDF-48A7-85B1-1ED71861A02E}|Persistence\\Persistence.csproj|solutionrelative:persistence\\migrations\\20230131105736_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\domain\\exceptions\\genaricexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\genaricexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\domain\\entities\\strudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\strudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkingProject\\LettuceLab\\Persistence\\Migrations\\20230130101422_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkingProject\\LettuceLab\\Persistence\\Migrations\\20230128132544_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkingProject\\LettuceLab\\Persistence\\Migrations\\20230128132321_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A4E03-1706-45C9-A7D8-C94EDB21FF38}|Api\\Api.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{792A4E03-1706-45C9-A7D8-C94EDB21FF38}|Api\\Api.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A4E03-1706-45C9-A7D8-C94EDB21FF38}|Api\\Api.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{792A4E03-1706-45C9-A7D8-C94EDB21FF38}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{792A4E03-1706-45C9-A7D8-C94EDB21FF38}|Api\\Api.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{792A4E03-1706-45C9-A7D8-C94EDB21FF38}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|c:\\users\\chamika hasantha\\desktop\\data\\documents_notes\\workingprojects\\lettucelab\\domain\\events\\genaricdomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F560540-EC76-40A6-903C-3B4D06FA2EC5}|Domain\\Domain.csproj|solutionrelative:domain\\events\\genaricdomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Persistence.csproj",
+              "RelativeDocumentMoniker": "Persistence\\Persistence.csproj",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Persistence.csproj",
+              "RelativeToolTip": "Persistence\\Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T03:48:03.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Repositories\\Interfaces\\ICommandRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\Interfaces\\ICommandRepository.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Repositories\\Interfaces\\ICommandRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\Interfaces\\ICommandRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQueryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Repositories\\Interfaces\\IQueryRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\Interfaces\\IQueryRepository.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Repositories\\Interfaces\\IQueryRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\Interfaces\\IQueryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Repositories\\CommandRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\CommandRepository.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Repositories\\CommandRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\CommandRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Repositories\\QueryRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\QueryRepository.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Repositories\\QueryRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\QueryRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetGreenHousesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Application\\Queries\\GreenHouseQuery\\GetGreenHousesQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GreenHouseQuery\\GetGreenHousesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Application\\Queries\\GreenHouseQuery\\GetGreenHousesQueryHandler.cs",
+              "RelativeToolTip": "Application\\Queries\\GreenHouseQuery\\GetGreenHousesQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetGreenHousesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Application\\Queries\\GreenHouseQuery\\GetGreenHousesQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GreenHouseQuery\\GetGreenHousesQuery.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Application\\Queries\\GreenHouseQuery\\GetGreenHousesQuery.cs",
+              "RelativeToolTip": "Application\\Queries\\GreenHouseQuery\\GetGreenHousesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Api\\WeatherForecast.cs",
+              "RelativeToolTip": "Api\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\ApplicationDbContext .cs",
+              "RelativeDocumentMoniker": "Persistence\\ApplicationDbContext .cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\ApplicationDbContext .cs",
+              "RelativeToolTip": "Persistence\\ApplicationDbContext .cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIAwwBEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Specification.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Spesifications\\Specification.cs",
+              "RelativeDocumentMoniker": "Shared.Kernal\\Spesifications\\Specification.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Spesifications\\Specification.cs",
+              "RelativeToolTip": "Shared.Kernal\\Spesifications\\Specification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Spesifications\\NotSpecification.cs",
+              "RelativeDocumentMoniker": "Shared.Kernal\\Spesifications\\NotSpecification.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Spesifications\\NotSpecification.cs",
+              "RelativeToolTip": "Shared.Kernal\\Spesifications\\NotSpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Spesifications\\OrSpecification.cs",
+              "RelativeDocumentMoniker": "Shared.Kernal\\Spesifications\\OrSpecification.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Spesifications\\OrSpecification.cs",
+              "RelativeToolTip": "Shared.Kernal\\Spesifications\\OrSpecification.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AndSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Spesifications\\AndSpecification.cs",
+              "RelativeDocumentMoniker": "Shared.Kernal\\Spesifications\\AndSpecification.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Spesifications\\AndSpecification.cs",
+              "RelativeToolTip": "Shared.Kernal\\Spesifications\\AndSpecification.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Checke.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Domain\\Checke.cs",
+              "RelativeDocumentMoniker": "Shared.Kernal\\Domain\\Checke.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Domain\\Checke.cs",
+              "RelativeToolTip": "Shared.Kernal\\Domain\\Checke.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T06:41:30.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Domain\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "Shared.Kernal\\Domain\\AggregateRoot.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Domain\\AggregateRoot.cs",
+              "RelativeToolTip": "Shared.Kernal\\Domain\\AggregateRoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Domain\\Entity.cs",
+              "RelativeDocumentMoniker": "Shared.Kernal\\Domain\\Entity.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Domain\\Entity.cs",
+              "RelativeToolTip": "Shared.Kernal\\Domain\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Events\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "Shared.Kernal\\Events\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Events\\IDomainEvent.cs",
+              "RelativeToolTip": "Shared.Kernal\\Events\\IDomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Shared.Kernal.csproj",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Shared.Kernal.csproj",
+              "RelativeDocumentMoniker": "Shared.Kernal\\Shared.Kernal.csproj",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Shared.Kernal.csproj",
+              "RelativeToolTip": "Shared.Kernal\\Shared.Kernal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T03:48:03.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LatticeLabException.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Exceptions\\LatticeLabException.cs",
+              "RelativeDocumentMoniker": "Shared.Kernal\\Exceptions\\LatticeLabException.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Exceptions\\LatticeLabException.cs",
+              "RelativeToolTip": "Shared.Kernal\\Exceptions\\LatticeLabException.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Shared.Kernal",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Shared.Kernal.csproj",
+              "RelativeDocumentMoniker": "Shared.Kernal\\Shared.Kernal.csproj",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Shared.Kernal\\Shared.Kernal.csproj",
+              "RelativeToolTip": "Shared.Kernal\\Shared.Kernal.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T03:48:03.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T03:48:03.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Api",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T03:48:03.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T03:48:03.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GreenHouseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Application\\Queries\\GreenHouseQuery\\GreenHouseDto.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GreenHouseQuery\\GreenHouseDto.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Application\\Queries\\GreenHouseQuery\\GreenHouseDto.cs",
+              "RelativeToolTip": "Application\\Queries\\GreenHouseQuery\\GreenHouseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\Entities\\Course.cs",
+              "RelativeToolTip": "Domain\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GreenHouseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Configaration\\GreenHouseConfig.cs",
+              "RelativeDocumentMoniker": "Persistence\\Configaration\\GreenHouseConfig.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Configaration\\GreenHouseConfig.cs",
+              "RelativeToolTip": "Persistence\\Configaration\\GreenHouseConfig.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowCkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GreenHouse.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\Entities\\GreenHouse.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\GreenHouse.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\Entities\\GreenHouse.cs",
+              "RelativeToolTip": "Domain\\Entities\\GreenHouse.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GreenHouseCommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Repositories\\GreenHouseRepos\\GreenHouseCommandRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\GreenHouseRepos\\GreenHouseCommandRepository.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Repositories\\GreenHouseRepos\\GreenHouseCommandRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\GreenHouseRepos\\GreenHouseCommandRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UnitOfWorkCommands.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\UnitOfWorkCommands.cs",
+              "RelativeDocumentMoniker": "Persistence\\UnitOfWorkCommands.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\UnitOfWorkCommands.cs",
+              "RelativeToolTip": "Persistence\\UnitOfWorkCommands.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:03.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Outbox.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Entities\\Outbox.cs",
+              "RelativeDocumentMoniker": "Persistence\\Entities\\Outbox.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Entities\\Outbox.cs",
+              "RelativeToolTip": "Persistence\\Entities\\Outbox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Entities\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "Persistence\\Entities\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Entities\\StudentCourse.cs",
+              "RelativeToolTip": "Persistence\\Entities\\StudentCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GreenHouseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\Entities\\GreenHouseManager.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\GreenHouseManager.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\Entities\\GreenHouseManager.cs",
+              "RelativeToolTip": "Domain\\Entities\\GreenHouseManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Lettuce.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\ValueObjects\\Lettuce.cs",
+              "RelativeDocumentMoniker": "Domain\\ValueObjects\\Lettuce.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\ValueObjects\\Lettuce.cs",
+              "RelativeToolTip": "Domain\\ValueObjects\\Lettuce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GrowBed.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\ValueObjects\\GrowBed.cs",
+              "RelativeDocumentMoniker": "Domain\\ValueObjects\\GrowBed.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\ValueObjects\\GrowBed.cs",
+              "RelativeToolTip": "Domain\\ValueObjects\\GrowBed.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\ValueObjects\\Container.cs",
+              "RelativeDocumentMoniker": "Domain\\ValueObjects\\Container.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\ValueObjects\\Container.cs",
+              "RelativeToolTip": "Domain\\ValueObjects\\Container.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Application\\GetRepo.cs",
+              "RelativeDocumentMoniker": "Application\\GetRepo.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Application\\GetRepo.cs",
+              "RelativeToolTip": "Application\\GetRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20230131134009_iniu1.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Migrations\\20230131134009_iniu1.cs",
+              "RelativeDocumentMoniker": "Persistence\\Migrations\\20230131134009_iniu1.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Migrations\\20230131134009_iniu1.cs",
+              "RelativeToolTip": "Persistence\\Migrations\\20230131134009_iniu1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20230131105736_init.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Migrations\\20230131105736_init.cs",
+              "RelativeDocumentMoniker": "Persistence\\Migrations\\20230131105736_init.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Persistence\\Migrations\\20230131105736_init.cs",
+              "RelativeToolTip": "Persistence\\Migrations\\20230131105736_init.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GenaricException.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\Exceptions\\GenaricException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\GenaricException.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\Exceptions\\GenaricException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\GenaricException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Strudent.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\Entities\\Strudent.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Strudent.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\Entities\\Strudent.cs",
+              "RelativeToolTip": "Domain\\Entities\\Strudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAALUSAAAAAAAAAAAIwMgSAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2023-01-30T09:57:02.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20230130101422_init.cs",
+              "DocumentMoniker": "C:\\WorkingProject\\LettuceLab\\Persistence\\Migrations\\20230130101422_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\WorkingProject\\LettuceLab\\Persistence\\Migrations\\20230130101422_init.cs",
+              "ToolTip": "C:\\WorkingProject\\LettuceLab\\Persistence\\Migrations\\20230130101422_init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\WorkingProject\\LettuceLab\\Persistence\\Migrations\\20230130101422_init.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-30T10:14:23.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20230128132321_init.cs",
+              "DocumentMoniker": "C:\\WorkingProject\\LettuceLab\\Persistence\\Migrations\\20230128132321_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\WorkingProject\\LettuceLab\\Persistence\\Migrations\\20230128132321_init.cs",
+              "ToolTip": "C:\\WorkingProject\\LettuceLab\\Persistence\\Migrations\\20230128132321_init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\WorkingProject\\LettuceLab\\Persistence\\Migrations\\20230128132321_init.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-28T13:23:22.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T03:48:04.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Api\\appsettings.Development.json",
+              "RelativeToolTip": "Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T03:48:04.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T03:48:04.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20230128132544_init.cs",
+              "DocumentMoniker": "C:\\WorkingProject\\LettuceLab\\Persistence\\Migrations\\20230128132544_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\WorkingProject\\LettuceLab\\Persistence\\Migrations\\20230128132544_init.cs",
+              "ToolTip": "C:\\WorkingProject\\LettuceLab\\Persistence\\Migrations\\20230128132544_init.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\WorkingProject\\LettuceLab\\Persistence\\Migrations\\20230128132544_init.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-01-28T13:25:44.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GenaricDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\Events\\GenaricDomainEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Events\\GenaricDomainEvent.cs",
+              "ToolTip": "C:\\Users\\Chamika Hasantha\\Desktop\\data\\documents_notes\\WorkingProjects\\LettuceLab\\Domain\\Events\\GenaricDomainEvent.cs",
+              "RelativeToolTip": "Domain\\Events\\GenaricDomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:48:04.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
